@@ -1,10 +1,9 @@
-# Hi there, I'm Digafirlana 👋
+# Hi there, I'm DigaFirlana 👋
 
 
 
 ### 🛠️ Tech Stack & Tools
 
-Here are the technologies I frequently work with:
 
 **Frontend & Web**
 <p>
