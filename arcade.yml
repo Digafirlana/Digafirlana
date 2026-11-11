@@ -31,4 +31,4 @@ jobs:
           target_branch: pacman-output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
